@@ -39,6 +39,18 @@ Das Layout ist vollständig responsive und für mobile Geräte optimiert.
 
 ---
 
+## Nächste Schritte
+
+Das Projekt befindet sich in stetiger Weiterentwicklung.  
+Geplant sind unter anderem folgende Erweiterungen:
+
+- Optimierung des Designs für mobile Endgeräte, damit die Darstellung auf Smartphones genauso elegant wirkt wie auf dem Laptop.  
+- Integration persönlicher Fashion-Looks von mir und meinen Freunden, die in den Kategorien präsentiert werden sollen.  
+
+Ziel ist es, KingsVision zu einer lebendigen Plattform zu machen, die Mode, Kreativität und Individualität verbindet.
+
+---
+
 ## Autorin
 
 **Efe-liz**  
